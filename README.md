@@ -16,6 +16,8 @@
  * https://www.contributor-covenant.org/
  * https://choosealicense.com/
  * https://github.com/microsoft/vscode
+ * https://github.com/github/docs/blob/main/CONTRIBUTING.md
+ * https://github.com/github/docs/blob/main/CODE_OF_CONDUCT.md
 
  ## Web Access
 
