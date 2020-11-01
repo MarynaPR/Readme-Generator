@@ -1,6 +1,5 @@
 const inquirer = require('inquirer');
-//link to generateMarkdown page
-const { generateMarkdown } = require('./utils/generateMarkdown.js'); // where module.export is
+const { generateMarkdown } = require('./utils/generateMarkdown.js');
 const { writeFile } = require('./write-file');
 
 const promptResponse = data => {
@@ -63,7 +62,7 @@ const promptResponse = data => {
             default: "npm test"
         },
         {
-            type: "checkbox",//"list", //list of options?
+            type: "checkbox",
             name: "license",
             message: "Please choose from the list of licenses for your project: ",
             choices: ['MIT', 'ISC', ' Apache License 2.0', 'GNU GPLv3', 'NONE']
@@ -79,7 +78,6 @@ const promptResponse = data => {
             message: "What is your email?",
         },
     ])
-
 };
 promptResponse()
     .then(data => {

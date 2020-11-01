@@ -1,7 +1,7 @@
 
-  # df'
+  # readme
 
-  ![license badge](https://img.shields.io/badge/license--red)
+  ![license badge](https://img.shields.io/badge/license-ISC-red)
 
   ## Description
   undefined
@@ -15,21 +15,21 @@
   * [Questions](#questions) 
    
   ### :electric_plug: Installation 
-  fd
+  npm install
 
   ### 	:desktop_computer: Usage
-  fd
+  info
 
-  ### Contribution
-  fd
+  ### 	:heavy_plus_sign: Contribution
+  contribution
 
-  ### Test
-  fd
+  ### :wrench: Test
+  test
 
-  ### License
-  
+  ### :id: License
+  ISC
 
-  ### Questions
-  Feel free to contact me with any questions via email  @ :e-mail: fd.If you'd like to see my other projects, please checkout my GitHub page :mag:
-   [fd](https://github.com/fd)
+  ### :question: Questions
+  Feel free to contact me with any questions via email  @ :e-mail: pryadkamaryna@gmail.com.If you'd like to see my other projects, please checkout my GitHub page 	:octocat:
+   [MarynaPR](https://github.com/MarynaPR)
    

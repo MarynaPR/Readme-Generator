@@ -27,17 +27,17 @@ function generateMarkdown(data) {
   ### 	:desktop_computer: Usage
   ${data.usage}
 
-  ### Contribution
+  ### 	:heavy_plus_sign: Contribution
   ${data.contribution}
 
-  ### Test
+  ### :wrench: Test
   ${data.test}
 
-  ### License
+  ### :id: License
   ${data.license}
 
-  ### Questions
-  Feel free to contact me with any questions via email  @ :e-mail: ${data.email}.If you'd like to see my other projects, please checkout my GitHub page :mag:
+  ### :question: Questions
+  Feel free to contact me with any questions via email  @ :e-mail: ${data.email}.If you'd like to see my other projects, please checkout my GitHub page 	:octocat:
    [${data.github}](https://github.com/${data.github})
    `;
 };
