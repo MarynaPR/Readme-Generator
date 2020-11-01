@@ -46,6 +46,12 @@ const promptResponse = data => {
             default: "npm install"
         },
         {
+            type: "checkbox",
+            name: "languages",
+            message: "Please choose which technologies were used to create the code. ",
+            choices: ['CSS', 'HTML', 'Node', 'JavaScript']
+        },
+        {
             type: "input",
             name: "usage",
             message: "Please provide information on how to use your application. "

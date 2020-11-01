@@ -6,7 +6,7 @@
 
  ## Technology Used
 
- * Node 
+ * Node.js
 
  ## Resources Udes for Research
 

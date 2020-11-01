@@ -11,10 +11,12 @@ function generateMarkdown(data) {
   ${badge(data.license)}
 
   ## Description
-  ${data.desctiption}
+
+  ${data.description}
 
   ### Table of Contents
   * [Installation](#installation) 
+  * [Technology Used](#languages)
   * [Usage](#usage) 
   * [Contributing](#contributing) 
   * [Tests](#tests) 
@@ -27,18 +29,25 @@ function generateMarkdown(data) {
 
   ${data.installation}
 
+  ### :label: Technology Used
+  
+  ${data.languages}
+
   ### 	:desktop_computer: Usage
+
+  * 
+
   ${data.usage}
 
   ### 	:heavy_plus_sign: Contribution
 
-  * If you wish to *contribute*, please make sure to refer to the **Code of Conduct** guidelines found [here] (https://www.contributor-covenant.org)
+  * If you wish to *contribute*, please make sure to refer to the **Code of Conduct** guidelines found [here](https://www.contributor-covenant.org)
 
   ${data.contribution}
 
   ### :wrench: Test
 
-  *If you'd like to *test* this code, please enter the following command:
+  * If you'd like to *test* this code, please enter the following command:
 
   ${data.test}
 
