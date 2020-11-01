@@ -1,8 +1,7 @@
 const inquirer = require('inquirer');
 //link to generateMarkdown page
 const { generateMarkdown } = require('./utils/generateMarkdown.js'); // where module.export is
-const { writeFile } = require('./output/Readme.md');
-
+const { writeFile } = require('./write-file');
 
 const promptResponse = data => {
     console.log(`

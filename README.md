@@ -2,13 +2,20 @@
 
  ## Description
 
- A well-crafted GitHub profile allows me to show off my work to other developers as well as potential employers. A quality README.md file is an extremely important component 
- 
- aspect of my public identity as a developer.
- 
-  An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+ This application provides step by step guide on how to create a well-crafted GitHub Readme.md file. It was created using Node.js featuring the use of 'fs' module to  to enhance code readability and reusability, Promises to handle asynchronous functionality in a cleaner fashion and 'npm init' command to create Node.js packages that are dependent on outside tools and libraries such as Inquirer.
 
  ## Technology Used
+
+ * Node 
+
+ ## Resources Udes for Research
+
+ * https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+ * http://jbt.github.io/markdown-editor/
+ * https://shields.io/
+ * https://www.contributor-covenant.org/
+ * https://choosealicense.com/
+ * https://github.com/microsoft/vscode
 
  ## Web Access
 

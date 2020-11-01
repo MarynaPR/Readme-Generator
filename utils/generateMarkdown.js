@@ -1,4 +1,3 @@
-
 const badge = (license) => {
   if (license !== "none") {
     return `![license badge](https://img.shields.io/badge/license-${license}-red)`
@@ -7,7 +6,6 @@ const badge = (license) => {
 
 function generateMarkdown(data) {
   return `
-
   # ${data.title}
 
   ${badge(data.license)}
@@ -23,10 +21,10 @@ function generateMarkdown(data) {
   * [License](#license) 
   * [Questions](#questions) 
    
-  ### Installation
+  ### :electric_plug: Installation 
   ${data.installation}
 
-  ### Usage
+  ### 	:desktop_computer: Usage
   ${data.usage}
 
   ### Contribution
@@ -39,8 +37,8 @@ function generateMarkdown(data) {
   ${data.license}
 
   ### Questions
-  Feel free to contact me with any questions via email  @${data.email}.If you'd like to see my other projects, please checkout my GitHub page
-   [${data.github}](https://github.com/${data.github}/)
+  Feel free to contact me with any questions via email  @ :e-mail: ${data.email}.If you'd like to see my other projects, please checkout my GitHub page :mag:
+   [${data.github}](https://github.com/${data.github})
    `;
 };
 
