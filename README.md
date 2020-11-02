@@ -1,7 +1,7 @@
 # README Generator
 
 
-![Screenshot](images/screenhot.readme.png)
+![Screenshot](images/screenshot.readme.png)
 
 
  ## Description
@@ -26,5 +26,10 @@
  ## Web Access
 
  Click here for the [Readme-Generator] access https://marynapr.github.io/Readme-Generator/
+
+ ## Link to the video
+ To see the video of the Readme.md being generated please visit the following link
+ [video]
+ (<iframe src="https://drive.google.com/file/d/10WewyWnpZu4jz0rLIyKTtvHFBXG0Kx_W/preview" width="640" height="480"></iframe>)
 
 This document was created by MarynaPR. Feel free to contact me with any questions via email pryadkamaryna@gmail.com.
