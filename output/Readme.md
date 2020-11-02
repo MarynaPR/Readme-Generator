@@ -5,7 +5,7 @@
 
   ## Description
 
-  The basic purpose of this project is to showcase the use of Node.js
+  The main purpose of this project is to showcase the use of Node.js to generate a readme.md
 
   ### Table of Contents
   * [Installation](#installation) 
@@ -16,40 +16,39 @@
   * [License](#license) 
   * [Questions](#questions) 
    
-  ### :electric_plug: Installation 
+  ### Installation :electric_plug:
 
   * If you'd like to install *dependencies*, run the following command:
 
   npm install
 
-  ### :label: Technology Used
-  
+  ### Technology Used :label: 
+
   Node
 
-  ### 	:desktop_computer: Usage
+  ### Usage :desktop_computer:
 
   * 
 
-  Please follow the instructios provided in Readme.
+  Please follow the instructions in readme
 
-  ### 	:heavy_plus_sign: Contribution
+  ### Contribution :heavy_plus_sign: 
 
   * If you wish to *contribute*, please make sure to refer to the **Code of Conduct** guidelines found [here](https://www.contributor-covenant.org)
 
-  Nothing to contribute at the moment.
+  Nothing to contribute at the moment
 
-  ### :wrench: Test
+  ### Test :wrench: 
 
   * If you'd like to *test* this code, please enter the following command:
 
   npm test
 
-  ### :id: License
+  ### License :id:
   MIT
 
-  ### :question: Questions
+  ### Questions :question: 
   Feel free to contact me with any questions via email  @ :e-mail: pryadkamaryna@gmail.com. 
   
-  If you'd like to see my other projects, please checkout my GitHub page 	:octocat: 
-   [MarynaPR](https://github.com/MarynaPR)
-   
+  If you'd like to see my other projects, please checkout my GitHub page :octocat:
+ [MarynaPR](https://github.com/MarynaPR)

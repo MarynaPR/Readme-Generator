@@ -1,5 +1,9 @@
 # README Generator
 
+
+![Screenshot](images/screenhot.readme.png)
+
+
  ## Description
 
  This application provides step by step guide on how to create a well-crafted GitHub Readme.md file. It was created using Node.js featuring the use of 'fs' module to  to enhance code readability and reusability, Promises to handle asynchronous functionality in a cleaner fashion and 'npm init' command to create Node.js packages that are dependent on outside tools and libraries such as Inquirer.
