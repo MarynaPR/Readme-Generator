@@ -30,6 +30,6 @@
  ## Link to the video
  To see the video of the Readme.md being generated please visit the following link
 
- ![video]("https://drive.google.com/file/d/10WewyWnpZu4jz0rLIyKTtvHFBXG0Kx_W/preview")
+ ![video](https://drive.google.com/file/d/10WewyWnpZu4jz0rLIyKTtvHFBXG0Kx_W/view)
 
 This document was created by MarynaPR. Feel free to contact me with any questions via email pryadkamaryna@gmail.com.
